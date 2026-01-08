@@ -14,3 +14,8 @@ This project explores a fictional retail dataset to answer common business quest
 
 ## Outcome
 The analysis demonstrates how SQL can be used to support business and product decisions through data.
+
+## Key Insights
+- Electronics category drives the highest revenue.
+- A small number of repeat customers contribute a large share of total revenue.
+- High-value customers should be prioritized for retention strategies.
